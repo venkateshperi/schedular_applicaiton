@@ -1,3 +1,5 @@
+//adding comments to this file and modifying. This is a random number generator using random() method.
+
 package test;
 
 import java.util.Random;
