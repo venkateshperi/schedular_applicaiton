@@ -7,7 +7,7 @@ import java.util.Random;
 public class Rand {
 
 	public static void main(String[] args) {
-		Random r = new Random ();
+		Random r = new Random (); // Creating an object of the inbuilt class random.
 		int number = r.nextInt(8);
 		System.out.println(number);
 	}
